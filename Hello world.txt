@@ -1,5 +1,6 @@
-print ("Hello World")
-print ("Hello me")
+print ("Hello World").
+print ("Hello me").
 print ("hello")
-print ("hello my dear friend")
-print ("hello my dear")
+print ("hello my dear friend").
+print ("hello my dear").
+
